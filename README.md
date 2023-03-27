@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedora Front End e gosto muito de compartilhar meu conhecimento e aprendizado no meu 
+    Sou Desenvolvedora Web Front-end e adoro compartilhar meu conhecimento e aprendizado no meu 
     <a href="https://www.instagram.com/codenahi/" target="_blank">
       <img
            width="10%" 
